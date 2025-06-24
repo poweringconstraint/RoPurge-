@@ -6,13 +6,13 @@ It automatically detects and removes players with inappropriate, explicit, or ha
 
 > 🛠️ RoPurge Features
 
-*✅ Auto kick players with inappropriate avatar items
+✅ Auto kick players with inappropriate avatar items
 
 ✅ Customizable the banlist
 
 ✅ Discord webhook support, get notified in your server channel whenever a player is detected and kicked for inappropriate content.
 
-✅ User friendly configuration*
+✅ User friendly configuration
 
 > 🔍 How It Works
 RoPurge scans player avatars on join. If a match is found in the banned word list, the player is removed from the server, and a log is sent to your designated Discord webhook. 
